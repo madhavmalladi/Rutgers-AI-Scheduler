@@ -1,3 +1,19 @@
+### Frontend
+
+- Next.js (React framework)
+- TypeScript
+- Tailwind CSS
+
+### Backend
+
+- Node.js (via Next.js API Routes)
+- Supabase (authentication + database)
+- OpenAI API (GPT-based suggestions)
+
+### Deployment
+
+- AWS: Lambda, S3, CloudFront, API Gateway
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
